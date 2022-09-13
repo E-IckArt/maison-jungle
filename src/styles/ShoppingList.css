@@ -1,0 +1,33 @@
+.lmj-plant-list {
+    list-style-type: none;
+    padding: 32px;
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 800px;
+}
+
+.lmj-plant-list-card {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+.lmj-plant-list-addToCartBtn {
+    align-self: flex-end;
+    background-color: #fff;
+    border: solid 3px #31b472;
+    border-radius: 20px;
+    width: 40%;
+    height: 50px;
+    position: absolute;
+    bottom: 15px;
+    right: 10px;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.lmj-plant-list-addToCartBtn:hover {
+    background-color: #31b472;
+    color: #fff;
+}
