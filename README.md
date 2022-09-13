@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Maison jungle
+
+This project is available on [maison-jungle](https://e-ickart.github.io/maison-jungle).
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
